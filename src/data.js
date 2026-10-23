@@ -13,7 +13,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "4+", label: "Years experience" },
+  { value: "4", label: "Years experience" },
   { value: "20+", label: "Reusable components" },
   { value: "2", label: "Enterprise-scale projects" },
 ];
